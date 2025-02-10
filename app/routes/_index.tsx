@@ -46,6 +46,16 @@ export default function Index() {
       </ul>
 
       {/* Добавляем ваш iframe */}
+      <iframe 
+        src="https://calendar.yandex.ru/embed/day?&amp
+        layer_ids=27649881&amp
+        tz_id=Europe/Moscow&amp
+        layer_names=Расписание. 313 группа. ПСД"
+        width="100%"
+        height="450"
+        frameborder="0"
+        style="border: 1px solid #eee"
+      ></iframe>
 
       
     </div>

@@ -1,4 +1,4 @@
-#import { redirect } from "@remix-run/react";
+/*#import { redirect } from "@remix-run/react";
 #import { nanoid } from "nanoid";
 
 #export const loader = () => {
@@ -8,7 +8,7 @@
 
 #export default function Index() {
   #return <div>'Whatever you put here will not be shown'</div>;
-#}
+#} */
 
 
 import { useState } from "react";

@@ -49,12 +49,21 @@ export default function Index() {
      <iframe
       src="https://calendar.yandex.ru/embed/day?layer_ids=27649881&tz_id=Europe/Moscow&layer_names=Расписание.%20313%20группа.%20ПСД"
       width="100%"
-      height="450"
+      height="800"
       frameBorder="0"
       style={{ border: "1px solid #eee" }}
       title="Расписание группы"
     ></iframe>
 
+      
+      <script 
+        src="https://forms.yandex.ru/_static/embed.js"
+        ></script>
+      <iframe src="https://forms.yandex.ru/cloud/67ab1ea750569031f0825c31/?iframe=1"
+        frameborder="0"
+        name="ya-form-67ab1ea750569031f0825c31"
+        width="650"
+        ></iframe>
 
       
     </div>
